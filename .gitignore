@@ -17,6 +17,7 @@ temp/
 .vitepress/dist/
 .vitepress/.temp/
 .vitepress/.cache/
+.vitepress/cache/
 
 # Editor directories and files
 .vscode/
